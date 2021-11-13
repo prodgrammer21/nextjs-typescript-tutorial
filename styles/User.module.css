@@ -1,0 +1,11 @@
+.user_main {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.user_item:hover {
+  color: red;
+  cursor: pointer;
+}

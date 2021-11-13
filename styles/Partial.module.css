@@ -1,0 +1,32 @@
+.layout_main {
+  height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  padding: 0 30px;
+}
+
+.footer_main {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar_main {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  cursor: pointer;
+}
+
+.navbar_menu_main {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
+
+.navbar_menu_main {
+  margin-left: auto;
+  display: flex;
+  gap: 10px;
+}
